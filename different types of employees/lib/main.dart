@@ -143,14 +143,14 @@ void main() {
                         TableRow(children: [
                           Column(children: const [
                             Text(
-                              'Name',
+                              'Phone',
                               style: TextStyle(
                                   fontSize: 18, backgroundColor: Colors.blue),
                             )
                           ]),
                           Column(children: const [
                             Text(
-                              'Department',
+                              'Action',
                               style: TextStyle(
                                   fontSize: 18, backgroundColor: Colors.blue),
                             )
@@ -160,76 +160,70 @@ void main() {
                           Column(
                             children: const [
                               Text(
-                                'Dr.Naouman',
+                                '03000000000',
                                 style: TextStyle(fontSize: 18),
                               ),
                             ],
                           ),
-                          Column(
-                              children: const [Text('Software Engineering')]),
+                          Column(children: const [Text('Active')]),
                         ]),
                         TableRow(children: [
                           Column(children: const [
                             Text(
-                              'Madam Zara',
+                              '03000000000',
                               style: TextStyle(fontSize: 18),
                             )
                           ]),
                           Column(children: const [
                             Text(
-                              'Software Engineering',
+                              'Not Active',
                             )
                           ]),
                         ]),
                         TableRow(children: [
                           Column(children: const [
                             Text(
-                              'Nadeem Akhtar',
+                              '03000000000',
                               style: TextStyle(fontSize: 18),
                             )
                           ]),
-                          Column(
-                              children: const [Text('Software Engineering')]),
+                          Column(children: const [Text('Active')]),
                         ]),
                         TableRow(children: [
                           Column(children: const [
                             Text(
-                              'Ali Haider Naqvi',
+                              '03000000000',
                               style: TextStyle(fontSize: 18),
                             )
                           ]),
-                          Column(
-                              children: const [Text('Software Engineering')]),
+                          Column(children: const [Text('Active')]),
                         ]),
                         TableRow(children: [
                           Column(children: const [
                             Text(
-                              'M. Talal',
+                              '03000000000',
                               style: TextStyle(fontSize: 18),
                             )
                           ]),
-                          Column(
-                              children: const [Text('Software Engineering')]),
+                          Column(children: const [Text('Active')]),
                         ]),
                         TableRow(children: [
                           Column(children: const [
                             Text(
-                              'Muhammad Gulraiz',
+                              '03000000000',
                               style: TextStyle(fontSize: 18),
                             )
                           ]),
-                          Column(
-                              children: const [Text('Software Engineering')]),
+                          Column(children: const [Text('Active')]),
                         ]),
                         TableRow(children: [
                           Column(children: const [
                             Text(
-                              'Dr.Nadeem',
+                              '03000000000',
                               style: TextStyle(fontSize: 18),
                             )
                           ]),
-                          Column(
-                              children: const [Text('Software Engineering')]),
+                          Column(children: const [Text('Active')]),
                         ]),
                       ],
                     ),
